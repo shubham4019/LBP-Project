@@ -12,7 +12,5 @@ YOLOV_CFG_PATH = './yolo/yolo.cfg'
 YOLOV_WEIGHTS_PATH = './yolo/yolov2-tiny.weights'
 
 # VIDEO_PATH = './videos/video.mp4'
-VIDEO_PATH = 'rtsp://TIDESroad:qaz12345@10.75.7.4:554/stream1'
-# VIDEO_PATH = 'rtsp://TIDESroad:qaz12345@10.75.7.4:554/stream1'
 OUTPUT_PATH = './output/output.avi'
 SAFE_DISTANCE = 60
